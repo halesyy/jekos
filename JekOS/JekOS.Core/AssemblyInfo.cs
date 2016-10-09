@@ -8,7 +8,7 @@ using Cosmos.Common;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JekOS")]
+[assembly: AssemblyTitle("Package Name")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Company")]
@@ -19,7 +19,7 @@ using Cosmos.Common;
 [assembly: ComVisible(false)]
 [assembly: CLSCompliant(false)]
 [assembly: NeutralResourcesLanguage("en-US")]
-[assembly: Ring(Ring.User)]
+[assembly: Ring(Ring.Core)]
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version
