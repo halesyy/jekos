@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JekOS", "JekOS\JekOS.csproj", "{253DA55A-0F49-4364-9C1A-19F2254669FE}"
+EndProject
+Project("{471EC4BB-E47E-4229-A789-D1F5F83B52D4}") = "JekOSBoot", "JekOS\JekOSBoot.Cosmos", "{15EB9215-9A5B-4BF7-A9EC-AE122CEB320A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253DA55A-0F49-4364-9C1A-19F2254669FE}.Debug|x86.ActiveCfg = Debug|x86
+		{253DA55A-0F49-4364-9C1A-19F2254669FE}.Debug|x86.Build.0 = Debug|x86
+		{253DA55A-0F49-4364-9C1A-19F2254669FE}.Release|x86.ActiveCfg = Release|x86
+		{253DA55A-0F49-4364-9C1A-19F2254669FE}.Release|x86.Build.0 = Release|x86
+		{15EB9215-9A5B-4BF7-A9EC-AE122CEB320A}.Debug|x86.ActiveCfg = Debug|x86
+		{15EB9215-9A5B-4BF7-A9EC-AE122CEB320A}.Debug|x86.Build.0 = Debug|x86
+		{15EB9215-9A5B-4BF7-A9EC-AE122CEB320A}.Release|x86.ActiveCfg = Debug|x86
+		{15EB9215-9A5B-4BF7-A9EC-AE122CEB320A}.Release|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
