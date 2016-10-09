@@ -41,8 +41,11 @@
     <Reference Include="Cosmos.Debug.Kernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5ae71220097cb983, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Functions.cs" />
     <Compile Include="Kernel.cs" />
     <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Terminal.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
