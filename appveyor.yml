@@ -35,3 +35,4 @@ shallow_clone: true                 # default is "false"
 # scripts that run after cloning repository
 install:
   - 7z e c:\project\Libs.zip -oc:\project\JekOS\JekOS\bin\Debug
+  - 7z e c:\project\Libs.zip -o"C:\Program Files (x86)\Microsoft\Contracts\PublicAssemblies\v3.5"
