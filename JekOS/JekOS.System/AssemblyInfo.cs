@@ -8,11 +8,11 @@ using Cosmos.Common;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Package Name")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("jekOS")]
+[assembly: AssemblyDescription("Simple COSMOS OS")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Company")]
-[assembly: AssemblyProduct("Package Name")]
+[assembly: AssemblyCompany("Jekoder")]
+[assembly: AssemblyProduct("jekOS")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
